@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Análisis y Clasificación de Rocas mediante Sonidos Usando Algoritmos de Aprendizaje Automático
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
